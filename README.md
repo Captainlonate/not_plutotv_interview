@@ -18,7 +18,8 @@ Honesty:
 For the Generator questions, I wanted to google yield*, but remained "honest", and did not,
 which will likely be reflected in the accuracy of my answer lol
 
-To instill confidence, I've included a Github link to a past project I wrote, where I used Generator functions so you could see how I've used them in the wild.
+To instill confidence, I've included a Github link to a past project I wrote,
+where I used Generator functions so you could see how I've used them in the wild.
 ```
 
 ## The channel app should satisfy all conditions: (src/index.js)
