@@ -6,29 +6,17 @@ Notes from Nathan:
 Tony G,
 
 Summary:
-I felt discouraged after we got off the call today. In part, due to the time I lost from Codesandbox
-freezing up. But also in part, because I felt like I didn't express myself well. So, my goal here
-is to at least prove to you that I could accomplish / solve all of the problems you had prepared for
-me. OBVIOUSLY, this strategy eliminates the pressure of time and audience, but at least you'll know
-that I can complete the objectives in *some* amount of time, haha
-
-Since this was off-script, I had two options.
-  - Cheat, take a lot of time and make something production ready
-  - Try to rush myself, and attempt to answer the questions as if you were here, but I was still
-    on limited time (try to keep it realistic)
-
-I chose option #2. I started completely over. I left all the code in the original files, and
-just used comments to show you where I would have broken it into a separate file.
+I left all the code in the original, single files, and just used comments to show
+you where I would have broken it into a separate file.
 
 Time:
 I'd like to say I completed all this in the allotted 30 minute period that we had on the
-call today, but I didn't. It definitely took me longer. Do people really complete all of
-this (including favorites and the generator questions) in 30 minutes? Either way, I didn't.
-I spent the most time on the 'favorite' category and on the CSS.
+call today, but I didn't. It definitely took me longer.
+I spent the most time on the 'favorite' feature.
 
 Honesty:
 For the App, I did not need to google anything.
-For the Generator questions, I wanted to google yield*, but was honest, and did not,
+For the Generator questions, I wanted to google yield*, but remained "honest", and did not,
 which will likely be reflected in the accuracy of my answer lol
 ```
 
