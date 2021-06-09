@@ -15,7 +15,6 @@ call today, but I didn't. It definitely took me longer.
 I spent the most time on the 'favorite' feature.
 
 Honesty:
-For the App, I did not need to google anything.
 For the Generator questions, I wanted to google yield*, but remained "honest", and did not,
 which will likely be reflected in the accuracy of my answer lol
 ```
