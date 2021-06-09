@@ -17,6 +17,8 @@ I spent the most time on the 'favorite' feature.
 Honesty:
 For the Generator questions, I wanted to google yield*, but remained "honest", and did not,
 which will likely be reflected in the accuracy of my answer lol
+
+To instill confidence, I've included a Github link to a past project I wrote, where I used Generator functions so you could see how I've used them in the wild.
 ```
 
 ## The channel app should satisfy all conditions: (src/index.js)
@@ -34,6 +36,9 @@ which will likely be reflected in the accuracy of my answer lol
 I did all of the work right in the provided file. I "explained" myself within the comments.
 
 But I did slightly change the export so that I could just run `node ./generators.js` and execute the code
+
+Since you're quizzing me on Generator functions, [here is a link to a tetris game](https://github.com/Captainlonate/captotetris2/blob/main/src/classes/BoardManager/index.js#L34) I built, where I wrote
+a generator function to iterate through a 2d array of cells. (Represents a game board)
 
 ## Screenshot of the functioning app
 ![Screenshot](./readme_screenshot.png)
