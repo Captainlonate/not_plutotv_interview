@@ -9,10 +9,6 @@ function* idMaker() {
   QUESTION #1)
   To Tony:
   --------
-  (I'm not sure if you'll believe me, but I'm going to answer these
-  without google, as if you were watching me right now. Obviously I
-  had longer to formulate my answers though, without any pressure, haha)
-
   When you invoke 'idMaker', you will get back an object which
   implements the iterator protocol, or maybe it's called 'iterable', not sure.
   It's an object that has a key of [Symbol.iterator], which is a function
