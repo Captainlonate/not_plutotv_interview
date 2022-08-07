@@ -1,26 +1,5 @@
 # Pluto TV Interview
 
-Notes from Nathan:
-
-```
-Tony G,
-
-Summary:
-I left all the code in the original, single files: (index.js / generators.js)
-
-Time:
-I was not able to complete all of this in the 30 minutes we would have had on the call.
-It took me about twice as long.
-I spent the most time on the 'favorite' feature and on writing the comments.
-
-Honesty:
-During the generator questions, I was tempted to Google the yield* operator,
-but I remained "honest", and did not. My explanation of it is probably wrong.
-
-To make up for it, I wanted to show you an example where I've used generator
-functions in past projects. I've included a Github link below to a file.
-```
-
 ## The channel app should satisfy all conditions: (src/index.js)
 
 * I moved the source into a create-react-app.
