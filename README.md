@@ -1,4 +1,4 @@
-# Pluto TV Interview
+# Not Pluto TV's Interview
 
 ## The channel app should satisfy all conditions: (src/index.js)
 
